@@ -2,4 +2,4 @@ Esta es la primera linea del archivo ejemplo2
 esta es la segunda linea del archivo ejemplo2
 esta es la tercera linea
 esta es una linea en la rama1
-
+esta es una linea agregad desde github en el archivo ejemplo2.txt
