@@ -1,3 +1,4 @@
 esta es la primera linea de este ejemplo. estoy agregando esto para que haya un conflicto con el master
 esta es la segunda linea.
 esta es una linea en la rama1
+esta es la cuarta linea en el archivo ejemplo1.txt
