@@ -1,1 +1,2 @@
 esta es la primera linea del ejemplo3
+esta linea del archivo 3 se modifico desde git local
